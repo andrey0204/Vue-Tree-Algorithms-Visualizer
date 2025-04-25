@@ -18,6 +18,8 @@ Este proyecto es una herramienta visual e interactiva para entender cómo funcio
 
 [Haz clic aquí para ver la app funcionando](https://vue-tree-algorithms-visualizer.vercel.app/)
 
+---
+
 ## 🎯 Funcionalidades
 
 ### 🔁 Recorridos en Árbol Binario (O(n))
