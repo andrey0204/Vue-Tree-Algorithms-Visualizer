@@ -8,9 +8,15 @@ Este proyecto es una herramienta visual e interactiva para entender cómo funcio
 
 ---
 
-## 📸 Demo
+## 🖼️ Vista previa
+
+![Vista previa de la app](./screenshot.png)
 
 ---
+
+## 🔗 Demo
+
+[Haz clic aquí para ver la app funcionando](https://vue-tree-algorithms-visualizer.vercel.app/)
 
 ## 🎯 Funcionalidades
 

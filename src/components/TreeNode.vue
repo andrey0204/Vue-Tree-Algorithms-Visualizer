@@ -11,7 +11,6 @@
     >
       {{ node.value }}
     </div
-
     <!-- Conexiones -->
     <div class="flex gap-38 mt-2" v-if="node.left || node.right">
       <div v-if="node.left" class="w-0 h-6 border-l border-black translate-x-6"></div>
